@@ -1,18 +1,19 @@
-### <img src="https://cdn.discordapp.com/attachments/1222008399160541265/1228904642839183360/Hola_Soy_Juan_Pablo_Croissant_un_joven_de_15_anos_incursionando_en_el_mundo_de_la_programacion_y_el_desarrollo_web._2.png?ex=662dbda2&is=661b48a2&hm=c693931dbd25e4cda9a45c8138d2a29f0cddaa0227db73b1b2f62e7a0c9aa367&">
-
-Hello! I'm Juan Pablo Croissant, a 15 year old young man delving into the world of programming and web development. While I lack formal experience, I've worked on small projects for family and colleagues, providing me with valuable practical experience. My self-taught approach has allowed me to acquire knowledge in various programming languages and expand my skills day by day.
+### <img src="https://cdn.discordapp.com/attachments/1222008399160541265/1228904327813271634/Hola_Soy_Juan_Pablo_Croissant_un_joven_de_15_anos_incursionando_en_el_mundo_de_la_programacion_y_el_desarrollo_web._1.png?ex=662dbd57&is=661b4857&hm=c90a4709dc10f2a65e93ff3da1dacde3affafc9c56a1352c74107996621c0a20&">
 
 
-On my learning journey, I've explored various technologies and concepts to grasp the principles behind modern web development. Despite my lack of experience, I've created a variety of projects that represent exciting challenges tackled with determination and passion. My portfolio reflects these early works and my pride in every achievement reached so far.
+¡Hola! Soy Juan Pablo Croissant, un joven de 15 años que se adentra en el mundo de la programación y el desarrollo web. Aunque carezco de experiencia formal, he trabajado en pequeños proyectos para familiares y colegas, lo que me ha proporcionado valiosa experiencia práctica. Mi enfoque autodidacta me ha permitido adquirir conocimientos en varios lenguajes de programación y expandir mis habilidades día a día.
 
-### Skills
+
+En mi camino de aprendizaje, he explorado diversas tecnologías y conceptos para comprender los principios detrás del desarrollo web moderno. A pesar de mi falta de experiencia, he creado una variedad de proyectos que representan desafíos emocionantes abordados con determinación y pasión. Mi portafolio refleja estos primeros trabajos y mi orgullo en cada logro alcanzado hasta ahora.
+
+### Skills 💻
 
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-### Skills in Growth
+### Skills in Growth 💻📈
 
 
 <p align="left">
@@ -26,5 +27,5 @@ On my learning journey, I've explored various technologies and concepts to grasp
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juancroiss&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Beyond my technical skills, I'm a committed and curious student who is constantly seeking to improve and learn. I'm excited about the opportunity to collaborate on new projects and take ideas to the next level. If you need a young and passionate developer, feel free to contact me! Thank you for considering my work.
+Más allá de mis habilidades técnicas, soy un estudiante comprometido y curioso que está constantemente buscando mejorar y aprender. Estoy emocionado por la oportunidad de colaborar en nuevos proyectos y llevar ideas al siguiente nivel. Si necesitas un desarrollador joven y apasionado, ¡no dudes en contactarme! Gracias por considerar mi trabajo.
 
