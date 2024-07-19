@@ -1,6 +1,3 @@
-### <img src="https://cdn.discordapp.com/attachments/1222008399160541265/1228904327813271634/Hola_Soy_Juan_Pablo_Croissant_un_joven_de_15_anos_incursionando_en_el_mundo_de_la_programacion_y_el_desarrollo_web._1.png?ex=662dbd57&is=661b4857&hm=c90a4709dc10f2a65e93ff3da1dacde3affafc9c56a1352c74107996621c0a20&">
-
-
 ¡Hola! Soy Juan Pablo Croissant, un joven de 15 años que se adentra en el mundo de la programación y el desarrollo web. Aunque carezco de experiencia formal, he trabajado en pequeños proyectos para familiares y colegas, lo que me ha proporcionado valiosa experiencia práctica. Mi enfoque autodidacta me ha permitido adquirir conocimientos en varios lenguajes de programación y expandir mis habilidades día a día.
 
 
